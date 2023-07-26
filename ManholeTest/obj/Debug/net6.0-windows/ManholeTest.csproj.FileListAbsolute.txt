@@ -1,0 +1,17 @@
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\bin\Debug\net6.0-windows\ManholeTest.exe
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\bin\Debug\net6.0-windows\ManholeTest.deps.json
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\bin\Debug\net6.0-windows\ManholeTest.runtimeconfig.json
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\bin\Debug\net6.0-windows\ManholeTest.dll
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\bin\Debug\net6.0-windows\ManholeTest.pdb
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.csproj.AssemblyReference.cache
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.ManHoleForm1.resources
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.csproj.GenerateResource.cache
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.AssemblyInfoInputs.cache
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.AssemblyInfo.cs
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.csproj.CoreCompileInputs.cache
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.dll
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\refint\ManholeTest.dll
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.pdb
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ManholeTest.genruntimeconfig.cache
+C:\Users\SZ-USER4\source\repos\ManholeTest\ManholeTest\obj\Debug\net6.0-windows\ref\ManholeTest.dll
